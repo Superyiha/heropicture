@@ -1,4 +1,4 @@
-package day2;
+package day2morning;
 
 /**
  * @desc 乘法口诀表
